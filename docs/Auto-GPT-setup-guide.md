@@ -12,7 +12,7 @@ For now Install `Auto-GPT` based on the [PR2594 of Auto-GPT](https://github.com/
 
 Follow on with the install instruction of the `Auto-GPT` based on the [official installation guide on their repo](https://github.com/Significant-Gravitas/Auto-GPT#-installation)
 
-install requirementsand, copy the .env.template file to .env
+install requirements and, copy the .env.template file to .env
 ``` bash
     pip install --upgrade pip
     pip install -r requirements.txt
